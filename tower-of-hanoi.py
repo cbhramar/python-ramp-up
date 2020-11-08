@@ -13,6 +13,6 @@ def numberOfSteps(n):
 	return pow(2,n)-1
 
 if __name__ == '__main__':
-	n = 3
+	n = 4
 	moveSubTower(n,'A','B','C')
 	print("Takes "+str(numberOfSteps(n))+" steps")
