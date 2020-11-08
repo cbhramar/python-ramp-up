@@ -18,5 +18,4 @@ if __name__ == '__main__':
 	s="Lorem ipsum enim voluptatibus porro veritatis. Hic eligendi nihil ut "
 	s+="consequatur. Ut tenetur praesentium sunt eum alias est deserunt "
 	s+="esse. Nesciunt libero cupiditate"
-	r="asdfg"
 	adjustWidth(s,15)
